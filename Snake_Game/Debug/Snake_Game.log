@@ -1,5 +1,0 @@
-﻿  Snake_Game.cpp
-c:\users\ethan frank\desktop\snake_game\snake_game\snake_game.cpp(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\ethan frank\desktop\snake_game\snake_game\snake_game.cpp(62): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-c:\users\ethan frank\desktop\snake_game\snake_game\snake_game.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
-  Snake_Game.vcxproj -> C:\Users\Ethan Frank\Desktop\Snake_Game\Debug\Snake_Game.exe
